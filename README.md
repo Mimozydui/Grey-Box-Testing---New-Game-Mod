@@ -1,4 +1,4 @@
-#Grey-Box Testing - New Game mod
+Grey-Box Testing - New Game mod
 
 This mod is only for people who speedrun the game. Don't use this, if you want to play the game casually.
 
