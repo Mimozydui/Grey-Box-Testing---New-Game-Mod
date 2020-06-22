@@ -26,8 +26,8 @@ Note, that you have to know basics of C# to make mods.
 
 How do I install it?
 
-Go to Grey_Box_Testing_0_1_5 (the folder where the game is located) > Managed > Grey-Box Testing_Data and replace Assembly-CSharp.dll with Assembly-CSharp.dll. If you did everything correctly, the game should read this DLL instead of the normal one.
+Go to Grey_Box_Testing_0_1_5 (the folder where the game is located) > Managed > Grey-Box Testing_Data and replace Assembly-CSharp.dll  that comes with the game with Assembly-CSharp.dll that you downloaded with the mod. If you did everything correctly, the game should read this DLL instead of the normal one.
 
 Now, if you go in-game, you can just click on Restart level and it should work.
 
-In the file you downloaded from github, there is also another Assembly-CSharp - original.dll. This is the original DLL that you download with the game. In case you want to delete the mod, just rename Assembly-CSharp - original.dll to just Assembly-CSharp.dll and replace it in Grey_Box_Testing_0_1_5 > Managed > Grey-Box Testing_Data.
+In the file you downloaded from github, there is also Assembly-CSharp - original.dll. This is the original DLL that you download with the game. In case you want to delete the mod, just rename Assembly-CSharp - original.dll to just Assembly-CSharp.dll and replace it in Grey_Box_Testing_0_1_5 > Managed > Grey-Box Testing_Data.
