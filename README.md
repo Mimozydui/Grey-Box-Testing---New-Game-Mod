@@ -26,7 +26,7 @@ Note, that you have to know basics of C# to make mods.
 
 How do I install it?
 
-Go to Grey_Box_Testing_0_1_5 (the folder where the game is located) > Managed > Grey-Box Testing Data and replace Assembly-CSharp.dll with Assembly-CSharp.dll. If you did everything correctly, the game should read this DLL instead of the normal one.
+Go to Grey_Box_Testing_0_1_5 (the folder where the game is located) > Managed > Grey-Box Testing_Data and replace Assembly-CSharp.dll with Assembly-CSharp.dll. If you did everything correctly, the game should read this DLL instead of the normal one.
 
 Now, if you go in-game, you can just click on Restart level and it should work.
 
